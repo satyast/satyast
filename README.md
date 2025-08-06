@@ -13,8 +13,7 @@ I'm a passionate **Pega Architect** with experience in **Pega platorm**. I love 
 - ⚡ Fun fact: **I love reading books and explore new tech**
 
 ## My Skills 🧠
-<img src="https://academy.pega.com/sites/default/files/styles/480/public/media/images/2024-08/CSA.png?itok=Ly8bq-pO" width="256" height="256"/>
-<img src="https://academy.pega.com/sites/default/files/styles/480/public/media/images/2024-08/CSSA_0.png?itok=M3OOg2xf" width="256" height="256"/>
+<img src="https://academy.pega.com/sites/default/files/styles/480/public/media/images/2024-08/CSA.png?itok=Ly8bq-pO" width="256" height="256"/> <img src="https://academy.pega.com/sites/default/files/styles/480/public/media/images/2024-08/CSSA_0.png?itok=M3OOg2xf" width="256" height="256"/>
 
 ## Featured Projects 💻
 
