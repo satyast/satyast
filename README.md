@@ -4,13 +4,13 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Your Job Title / Developer Role]** with experience in **[technologies you're proficient in]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Pega Architect** with experience in **Pega platorm**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[new technologies or skills you're currently learning]**
-- 🔭 Working on: **[current projects or side-projects]**
-- 🌍 Languages: **[programming languages and human languages you speak]**
-- 📫 How to reach me: **[your email address or other contact information]**
-- ⚡ Fun fact: **[a fun fact about yourself]**
+- 🌱 Currently learning: **Pega Certified Lead System Architect certification course**
+- 🔭 Working on: **personal pega project protfolio**
+- 🌍 Languages: **English, Hindi & Telugu. Learning Dutch.**
+- 📫 How to reach me: **satyajeeth.thakur@gmail.com**
+- ⚡ Fun fact: **I love reading books and explore new tech**
 
 ## My Skills 🧠
 
@@ -38,6 +38,4 @@ I'm a passionate **[Your Job Title / Developer Role]** with experience in **[tec
 
 ## Get in Touch 📬
 
-- **[Personal Website / Blog]**(your_website_or_blog_link)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Twitter]**(your_twitter_profile_link)
+- **[LinkedIn]**(https://www.linkedin.com/in/satyajeethsinghthakur/)
