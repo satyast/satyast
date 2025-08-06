@@ -32,3 +32,4 @@ I'm a passionate **Pega Architect** with experience in **Pega platorm**. I love 
 ## Get in Touch 📬
 
 - **[LinkedIn]**(https://www.linkedin.com/in/satyajeethsinghthakur/)
+- **[Pega Profile]**(https://accounts.pega.com/profile/SatyajeethThakur)
