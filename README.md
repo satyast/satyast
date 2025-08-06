@@ -1,6 +1,6 @@
 # Hi there, I'm Satya! 👋
 
-![Banner Image](your_banner_image_url_here)
+<img src="https://media.licdn.com/dms/image/v2/D5616AQHIAkj3UTStqA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1678047239231?e=1757548800&v=beta&t=Fj4vqQR3fWb5idILB8HffN86ItGLaQYP1kDk6pcYlyE">
 
 ## About Me 🚀
 
